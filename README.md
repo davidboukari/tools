@@ -14,4 +14,4 @@
 
 
 ## Winwin
-* Screen Copy: SHIFT + Win + s
+* Screenshot, Screen Copy: SHIFT + Win + s
